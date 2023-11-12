@@ -1,4 +1,8 @@
-# Cosas que quiero aprender de Go
+# [BKCdeveloper](https://github.com/bryan3561/goLearning)
+
+> Cosas que quiero aprender de Go
+
+
 
 * Contextos
 * WaitGrups
@@ -7,4 +11,6 @@
 * Auth
 * Process files
     * integrations
-    * 
+    * data convertions
+    * stream data
+    * ... more
